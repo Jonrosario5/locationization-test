@@ -1,6 +1,11 @@
 let dictionary = {
 
-  greeting:"hello" 
+  greeting:"hello",
+      es:{
+      summary:"Este informe proporciona una descripción general completa de los ingresos para una empresa de SaaS B2B de muestra. La tabla principal que impulsa estas métricas contiene instantáneas diarias de todas las interacciones activas en Salesforce, comenzando en 2014 y continuando hasta el día de hoy. Esta tabla no está agregada y es rica en dimensiones y medidas, como is_month_to_month, total_seats_used y anualized_overage. Este diseño permite al liderazgo de ventas profundizar en los datos y descubrir sus propios conocimientos sin necesidad de tocar el código, lo que libera tiempo al analista para centrarse en cuestiones estratégicas y operativas más complejas.",
+      revenueHeader:"Ingresos por categoría"
+      
+    }
 
 }; 
 
