@@ -1,0 +1,6 @@
+let dictionary = {
+  
+  greeting:"hello" 
+
+};
+
